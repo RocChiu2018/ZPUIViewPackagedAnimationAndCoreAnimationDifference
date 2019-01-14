@@ -1,0 +1,2 @@
+# ZPUIViewPackagedAnimationAndCoreAnimationDifference
+本Demo主要介绍了核心动画与用UIView封装的动画的区别以及用UIView封装动画的几种不同的写法。
